@@ -3,4 +3,4 @@ lifesaver
 
 Little things I would otherwise forget probably.
 
-See [wiki]
+See [wiki](wiki)
